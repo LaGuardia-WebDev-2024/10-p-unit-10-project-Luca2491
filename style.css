@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: lightgrey;
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -14,13 +14,13 @@ html{
 }
 
 #myCanvas {
-  border: 1px solid black;
+  border: 1px solid white;
 }
 
 .container{
   display: flex;
   flex-wrap: wrap;
-  background-color: white;
+  background-color: darkgrey;
   justify-content: space-around;
   align-items: flex-start;
   padding-bottom: 20px;
@@ -30,11 +30,11 @@ html{
   height: 600px;
   width: 400px;
   object-fit: cover;
-  border: 1px solid black;
+  border: 1px solid white;
 }
 
 h2{
-  color: black;
+  color: grey;
 }
 
 #start{
